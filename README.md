@@ -1,2 +1,2 @@
 # EPICODE CORSO CYBERSECURITY SPECIALIST
-# In questo corso è prevista una lezione teorica mattutina, seguita da una parte pratica pomeridiana, questo per una durata di 3 mesi con un totale di 450+ ore sia pratiche che teoriche.
+# In questo corso è prevista una lezione teorica mattutina, seguita da una parte pratica pomeridiana, questo per una durata di 3 mesi con un totale di 450+ ore sia pratiche che teoriche. In questa Reposetery sono presenti tutti i progetti che sono stati studiati e seguiti durante il corso la denominazione "S" all'interno delle cartelle "Week" sta a indicare la settimana e la denominazione "L" invece sta a indicare il progetto. (ES: S4-L2 = Settimana quattro Progetto 2) 
